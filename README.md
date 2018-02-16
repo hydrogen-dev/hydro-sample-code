@@ -4,7 +4,7 @@
 ## Introduction
 <p>The Hydro Smart Contract is open source blockchain software developed by <a href="http://www.projecthydro.com">Project Hydro</a>.</p>
 <p>We have created several repos of sample code to help people get started with developing on the platform</p>
-## Included in this repo is sample code for both Node and Python
+<p>Included in this repo is sample code for both Node and Python</p>
 
 ## Documentation
 <p>Project Hydro has also created an API to interface with this smart contract:
