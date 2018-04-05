@@ -9,7 +9,7 @@
 ## Documentation
 <p>Project Hydro has also created an API to interface with this smart contract:
 
-<a href="https://github.com/hydrogen-dev/hydro-docs">Hydro API Documentation</a></p>
+<a href="https://hydrogenplatform.com/docs/hydro/v1">Hydro API Documentation</a></p>
 
 ## Copyright & License
 Copyright 2018 The Hydrogen Technology Corporation under the GNU General Public License v3.0.
